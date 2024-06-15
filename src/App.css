@@ -1,0 +1,6 @@
+
+.bg__image{
+    background-image: url('../public/images/img1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
