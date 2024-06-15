@@ -1,5 +1,5 @@
 import Accordian from './Accordian';
-import image from '../../../public/images/Group 7.png'
+import image from '/images/Group 7.png'
 const ChooseUs = () => {
     return (
         <div className="flex justify-around gap-10 mt-20 max-md:flex-col max-md:justify-center max-md:items-center px-3">

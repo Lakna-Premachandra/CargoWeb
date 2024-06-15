@@ -1,7 +1,7 @@
-import image1 from "../../../public/images/l6.png"
-import image2 from "../../../public/images/l9.png"
-import image3 from "../../../public/images/l7.png"
-import image4 from "../../../public/images/l10.jpg"
+import image1 from "/images/l6.png"
+import image2 from "/images/l9.png"
+import image3 from "/images/l7.png"
+import image4 from "/images/l10.jpg"
 
 const Client = () => {
     const logos = [
