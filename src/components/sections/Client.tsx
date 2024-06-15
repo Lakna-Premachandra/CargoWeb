@@ -1,23 +1,18 @@
-import image1 from "/images/l6.png"
-import image2 from "/images/l9.png"
-import image3 from "/images/l7.png"
-import image4 from "/images/l10.jpg"
-
 const Client = () => {
     const logos = [
         {
             id: 1,
-            image:image1
+            image:'/images/l6.png'
         },
         {
             id: 2,
-            image: image2
+            image: '/images/l9.png'
         }, {
             id: 3,
-            image: image3
+            image: '/images/l7.png'
         }, {
             id: 4,
-            image:image4
+            image:'/images/l10.jpg'
         },
     ]
     return (
