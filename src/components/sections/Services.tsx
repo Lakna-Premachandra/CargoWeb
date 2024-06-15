@@ -1,15 +1,16 @@
-
+import image1 from '../../../public/images/ship.jpg'
+import image2 from '../../../public/images/plane1.jpg'
 const Services = () => {
     const images = [
         {
             title: "Air Freight Services",
-            image: "../../../public/images/ship.jpg",
+            image:image1,
             description: "At our Auto Service garage, we fully appreciate how difficult it is for people to find  "
         },
         {
             title: "Drone Service",
-            image: "../../../public/images/plane1.jpg",
-            description: "These are unique and often differ from one industry to the other. Our logistics expertise.  "
+            image:image2,
+                        description: "These are unique and often differ from one industry to the other. Our logistics expertise.  "
         },
 
 
